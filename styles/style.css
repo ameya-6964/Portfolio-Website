@@ -274,7 +274,7 @@ footer {
   flex-direction: row;
 }
 footer ul {
-  flex: 1 1 40rem;
+  flex: 1 1 30rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -350,6 +350,6 @@ footer h4 {
     width: 100%;
   }
   footer {
-    font-size: 45%;
+    font-size: 50%;
   }
 }/*# sourceMappingURL=style.css.map */

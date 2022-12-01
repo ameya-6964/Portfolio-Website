@@ -5,7 +5,7 @@ footer{
     padding: 0% 5%;
     @include flex(flex-start,center,row);
     ul{
-        flex:1 1 40rem;
+        flex:1 1 30rem;
         @include flex(space-around,center,row);
     }
     h4{
