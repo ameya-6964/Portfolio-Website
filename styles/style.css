@@ -264,7 +264,7 @@ nav ul {
 }
 
 footer {
-  background: #2c2c2c;
+  background: black;
   color: white;
   min-height: 10vh;
   padding: 0% 5%;
@@ -348,5 +348,8 @@ footer h4 {
   form {
     padding: 0rem;
     width: 100%;
+  }
+  footer {
+    font-size: 45%;
   }
 }/*# sourceMappingURL=style.css.map */
